@@ -1,6 +1,6 @@
 # BarraHotel App
 ## **Projeto Integrado - Desenvolvimento de Sistemas Móveis**
-** Semestre: ** 2026.1
+Semestre: 2026.1
 
 ## Sobre o Projeto
 Aplicativo mobile desenvolvido no módulo de Desenvolvimento de Sistemas Móveis.
