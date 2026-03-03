@@ -16,16 +16,17 @@ O sistema utiliza Inteligência Artificial para:
 (Descrever problemas reais do hotel)
 
 ## Público
-(Descrever para quem o produto será direcionado)
+Clientes e funcionários do Barra Hotel
 
 ## Como a IA será utilizada
 (Descrever se será análise preditiva, classificação, recomendação etc.)
 
 
 ## Integrantes
-- Nome 1
-- Nome 2
-- Nome 3
+- Matheus Gabriel de Melo Tesch - RA: 25001921
+- Thiago Mafra Domingues - RA: 25000115
+- Poliana Procópio Machado Velo - RA: 25000022
+- Vitória Martins da Silva - RA: 25000099
 
 ## Status
 Em desenvolvimento
